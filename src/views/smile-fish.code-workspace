@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../VUE/app_component"
+		},
+		{
+			"path": "../../../FishAPI"
+		}
+	],
+	"settings": {}
+}
